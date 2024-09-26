@@ -8,8 +8,8 @@ That is for you to do :)
 
 `configure.ps1`:
 Can be used to bind and activate the runner to your GitHub account. <br>
-I personally recommend **all advanced users** to edit this file and replace `PLACEHOLDERTOKENDATAHERE` with your own token. <br>
-For non-advanced users, however, I have added the option to enter your token thru the script.
+I personally recommend **all advanced users** to edit this file and replace `PLACEHOLDERTOKENDATAHERE` with your own token and run the file. <br>
+For **non-advanced users**, however, I have added the option to enter your token thru the script.
 
 
 **NOTE** 
