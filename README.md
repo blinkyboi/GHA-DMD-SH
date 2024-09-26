@@ -1,6 +1,6 @@
 # Demand Console GitHub Runner Provisioner
 
-### This repo is made to help automate setup of self-hosted github actions workflow runner. 
+### This repo is made to help automate setup of self-hosted github actions workflow runner on Windows 10 (x64) machines. 
 
 `download.ps1` 
 Covers the main logic of setting up the runner. It **does not**, however, bind it to your github account using a token. 
